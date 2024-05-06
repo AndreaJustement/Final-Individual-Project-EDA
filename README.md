@@ -2,7 +2,7 @@
 # Individual Project EDA
 
 ##Introduction
-This notebook guides you through an Exploratory Data Analysis (EDA) on a used car dataset. The primary aim is to understand the dataset thoroughly to make informed decisions in subsequent Machine Learning tasks. You'll learn to extract important variables, identify outliers, and understand relationships between different variables.
+This notebook guides you through an Exploratory Data Analysis (EDA) on a used car dataset. The primary aim is to understand the dataset thoroughly to make informed decisions in subsequent Machine Learning tasks. Extract important variables, identify outliers, and understand relationships between different variables.
 
 ## Prerequisites
 -Python 3.x
