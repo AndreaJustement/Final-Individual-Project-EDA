@@ -1,4 +1,4 @@
-# Final-Individual-Project-EDA
+# EDA - Used cars
 # EDA individual project
 
 ##Introduction
